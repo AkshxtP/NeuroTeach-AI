@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+session.json
+tts_cache/
+highlighted_*.pdf
+temp.pdf
