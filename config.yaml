@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    testuser:
+      email: test@gmail.com
+      name: Test User
+      password: $2b$12$Jz9A2W0sMmb9rY7McF1X2e4A9U4Q89oR7AtYH6gW1oV9UPQ6DWjQK
+
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name

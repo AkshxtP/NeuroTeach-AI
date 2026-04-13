@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+PyMuPDF
+sentence-transformers
+gtts
+streamlit-pdf-viewer
